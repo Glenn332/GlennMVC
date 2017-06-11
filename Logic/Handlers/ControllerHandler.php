@@ -12,8 +12,4 @@
             echo $this->ControllerName . " " . $this->Arguments;
         }
     }
-    
-    class Class2{
-        public static $rawr = "test";
-    }
 ?>
