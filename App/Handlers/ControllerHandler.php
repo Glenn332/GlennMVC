@@ -1,5 +1,5 @@
 <?php 
-    namespace Logic\Handlers;
+    namespace App\Handlers;
 
     class ControllerHandler{
         public $ControllerName;

@@ -1,5 +1,5 @@
 <?php 
-    namespace Logic;
+    namespace App;
      
     class Config {
         public static $BaseUrl = "/";
